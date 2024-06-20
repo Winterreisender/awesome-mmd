@@ -31,6 +31,8 @@
 - [PMX2.1 (English)](https://gist.github.com/felixjones/f8a06bd48f9da9a4539f)
 - [PMX (日本語)](https://w.atwiki.jp/vpvpwiki/pages/284.html)
 - [PMX (简体中文)](https://www.jianshu.com/p/d051639b6aed)
+- [VMD (简体中文, Python)](https://www.jianshu.com/p/ae312fb53fc3) [VMD (简体中文, Java)](https://blog.csdn.net/haseetxwd/article/details/82821533)
+- [VMD (English)](https://mikumikudance.fandom.com/wiki/VMD_file_format)
 
 
 ## Note
