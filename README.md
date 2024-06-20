@@ -13,19 +13,17 @@
 ### Plugins for Other 3D Softwares
 - Blender
   * [blender_mmd_tools](https://github.com/UuuNyaa/blender_mmd_tools), [blender_mmd_uuunyaa_tools](https://github.com/UuuNyaa/blender_mmd_uuunyaa_tools)
-  * [Cats-Blender-Plugin-Unofficial](https://github.com/teamneoneko/Cats-Blender-Plugin-Unofficial-), ❕[cats](https://github.com/absolute-quantum/cats-blender-plugin)
+  * [Cats-Blender-Plugin-Unofficial](https://github.com/teamneoneko/Cats-Blender-Plugin-Unofficial-), [cats❕](https://github.com/absolute-quantum/cats-blender-plugin)
 
 - Unreal Engine
   * [VRM4U](https://github.com/ruyo/VRM4U)
-  * [IVP5U](https://github.com/NaN-Name-bilbil/IVP5U)
+  * [IVP5U🚫](https://github.com/NaN-Name-bilbil/IVP5U)
 
 ## For Programmers
 ### Format Parsers
-- [oguna/MMDFormats](https://github.com/oguna/MMDFormats) : Legacy C/C++ PMX/VMD/PMD loader
 - [assimp](https://github.com/assimp/assimp) : A very popular 3D importer libaray with a PMX loader with Python, C++, JS, C#, etc. support.
-
-### Web
-- Babylong mmdLoader https://doc.babylonjs.com/communityExtensions/mmdLoader
+- [oguna/MMDFormats❕](https://github.com/oguna/MMDFormats) : C/C++ PMX/VMD/PMD loader
+- [Babylon mmdLoader](https://doc.babylonjs.com/communityExtensions/mmdLoader) : A MMD loader for Babylon.js Web 3D engine
 
 ### Format Documentaion
 - [PMX2.1 (English)](https://gist.github.com/felixjones/f8a06bd48f9da9a4539f)
