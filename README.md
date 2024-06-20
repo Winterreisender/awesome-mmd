@@ -47,4 +47,4 @@
 All suggestions, pull requests, issues, discussions and other contributions are welcome and appreciated.
 
 ## License
-SPDX: `AGPL-3.0-only OR CC-BY-NC-SA-4.0`
+`CC-BY-NC-SA-4.0 OR AGPL-3.0-only`
