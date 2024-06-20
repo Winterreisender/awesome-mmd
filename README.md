@@ -19,6 +19,9 @@
   * [VRM4U](https://github.com/ruyo/VRM4U)
   * [IVP5U🚫](https://github.com/NaN-Name-bilbil/IVP5U)
 
+### Utils
+- `unzip -O shift-jis xxx.zip`: Unzip shift-jis zip files in Linux
+
 ## For Programmers
 ### Format Parsers
 - [assimp](https://github.com/assimp/assimp) : A very popular 3D importer libaray with a PMX loader with Python, C++, JS, C#, etc. support.
