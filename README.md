@@ -1,4 +1,6 @@
 # awesome-mmd
+[English](README.md) | [中文(简体) (TODO)](README.zh-Hans.md) | [日本語 (TODO)](README.ja.md)
+
 [WIP] Awesome opensource MikuMikuDance (aka. mmd) list
 
 ## For Artists
