@@ -35,6 +35,8 @@
 - [VMD (简体中文, Python)](https://www.jianshu.com/p/ae312fb53fc3) [VMD (简体中文, Java)](https://blog.csdn.net/haseetxwd/article/details/82821533)
 - [VMD (English)](https://mikumikudance.fandom.com/wiki/VMD_file_format)
 
+### Background Knowledge
+- [四元数与三维旋转](https://github.com/Krasjet/quaternion), [Quaternions and Rotations](https://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)
 
 ## Note
 
