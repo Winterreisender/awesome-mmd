@@ -20,12 +20,17 @@
   * [IVP5U](https://github.com/NaN-Name-bilbil/IVP5U)
 
 ## For Programmers
-### Format Loading
+### Format Parsers
 - [oguna/MMDFormats](https://github.com/oguna/MMDFormats) : Legacy C/C++ PMX/VMD/PMD loader
 - [assimp](https://github.com/assimp/assimp) : A very popular 3D importer libaray with a PMX loader with Python, C++, JS, C#, etc. support.
 
 ### Web
 - Babylong mmdLoader https://doc.babylonjs.com/communityExtensions/mmdLoader
+
+### Format Documentaion
+- [PMX2.1 (English)](https://gist.github.com/felixjones/f8a06bd48f9da9a4539f)
+- [PMX (日本語)](https://w.atwiki.jp/vpvpwiki/pages/284.html)
+- [PMX (简体中文)](https://www.jianshu.com/p/d051639b6aed)
 
 
 ## Note
