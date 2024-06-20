@@ -42,3 +42,9 @@
 - 🌐: Always Need be online to use
 - 🚫: Not opensourced
 - ❕: Deprecated or leagcy, means it is not updated (committed) for at least 2 years
+
+## Contribution
+All suggestions, pull requests, issues, discussions and other contributions are welcome and appreciated.
+
+## License
+SPDX: `AGPL-3.0-only OR CC-BY-NC-SA-4.0`
