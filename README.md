@@ -3,12 +3,15 @@
 
 [WIP] Awesome MikuMikuDance (aka. mmd) list
 
+🚫=`Non-opensource` 🌐=`Online Only` ❕=`Not updated for 2+ years`
+
 ## For Artists
 <!-- ### Format Convertion -->
 
 ### Third Party Implementions
 - [nanoem](https://github.com/hkrn/nanoem): a cross-platform MikuMikuDance compatible implementation
 - [saba](https://github.com/benikabocha/saba): MMD file Loader and viewer
+- [NiseMMD🚫](http://liga.tech/): A MikuMikuDance compatible implementation.
 
 ### Plugins for Other 3D Softwares
 - Blender
@@ -37,14 +40,6 @@
 
 ### Background Knowledge
 - [四元数与三维旋转](https://github.com/Krasjet/quaternion), [Quaternions and Rotations](https://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)
-
-## Note
-
-- `MMD File` = `PMX + VMD + VPD + PMD`
-- If not noted, all items are free open-source software(FOSS). The FOSS here means that it either approved by [GNU](https://www.gnu.org/philosophy/free-sw.en.html#fs-definition) or [OSI](https://opensource.org/osd)
-- 🌐: Always Need be online to use
-- 🚫: Not opensourced
-- ❕: Deprecated or leagcy, means it is not updated (committed) for at least 2 years
 
 ## Contribution
 All suggestions, pull requests, issues, discussions and other contributions are welcome and appreciated.
