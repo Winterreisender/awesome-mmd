@@ -18,6 +18,7 @@
 - Blender
   * [blender_mmd_tools](https://github.com/UuuNyaa/blender_mmd_tools), [blender_mmd_uuunyaa_tools](https://github.com/UuuNyaa/blender_mmd_uuunyaa_tools)
   * [Cats-Blender-Plugin-Unofficial](https://github.com/teamneoneko/Cats-Blender-Plugin-Unofficial-), [cats❕](https://github.com/absolute-quantum/cats-blender-plugin)
+  * [mmdance](https://github.com/starryark/mmdance): VMD motion, camera and facial tracks on non-MMD (Mixamo-rigged) characters, with skirt and hair physics
 
 - Unreal Engine
   * [VRM4U](https://github.com/ruyo/VRM4U)
